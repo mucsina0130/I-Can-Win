@@ -3,6 +3,7 @@
 *.log
 *.bash
 *.sql
+*.private
 
 #Folders
 bin/
