@@ -1,0 +1,7 @@
+#Extensions
+*.db 
+*.log
+
+#Folders
+bin/
+target/
