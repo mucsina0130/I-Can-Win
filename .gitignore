@@ -1,6 +1,8 @@
 #Extensions
 *.db 
 *.log
+*.bash
+*.sql
 
 #Folders
 bin/
